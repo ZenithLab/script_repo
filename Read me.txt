@@ -1,3 +1,5 @@
-Привет! Тест Git-a.
-Тест шрифта.
+РџСЂРёРІРµС‚! РўРµСЃС‚ Git-a.
+РўРµСЃС‚ С€СЂРёС„С‚Р°.
 15-04-2020
+
+Hi, we are ZenithLab currently hosting it on github.com/zenithdb. Can we call and discuss if we can get your repo name?
